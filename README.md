@@ -1,7 +1,5 @@
 # wzry-marksman-playbook
 
-> 推荐仓库名：`wzry-marksman-playbook`
-
 王者荣耀发育路（射手）系统化训练体系。通过结构化知识库 + 每局数据记录 + Python 数据分析，把"感觉打得好/不好"变成可量化、可追踪的进步曲线。
 
 ---
@@ -34,7 +32,7 @@
 
 **环境依赖（一次性安装）：**
 ```bash
-pip install pandas openpyxl matplotlib
+pip install -r requirements.txt
 ```
 
 **第一次使用，生成记录表：**
