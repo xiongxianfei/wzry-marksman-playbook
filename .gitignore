@@ -1,0 +1,19 @@
+# Excel 数据文件（个人训练数据，不入库）
+训练记录.xlsx
+~$*.xlsx
+~$*.xls
+
+# 生成的分析报告（运行 分析数据.py 自动生成）
+分析报告.png
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
