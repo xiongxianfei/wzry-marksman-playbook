@@ -166,6 +166,12 @@ python 分析数据.py
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=xiongxianfei/wzry-marksman-playbook&type=date&legend=top-left)](https://www.star-history.com/?repos=xiongxianfei%2Fwzry-marksman-playbook&type=date&legend=top-left)
+
+---
+
 ## 贡献
 
 欢迎 PR 补充其他英雄手册、优化评分体系、或分享你的训练数据规律。
